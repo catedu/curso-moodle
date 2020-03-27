@@ -4,7 +4,7 @@
 
 ![Fuente INTEF](https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/img/terminos4.jpg)
 
-Moddle es una plataforma para teleformación, creación de Martin Dougiamas, que se sostiene en un sistema tecnológico, al que puede considerarse como de web dinámica, y un andamiaje pedagógico, que incluye elementos de contructivismo y construccionismo.
+Moodle es una plataforma para teleformación, creación de Martin Dougiamas, que se sostiene en un sistema tecnológico, al que puede considerarse como de web dinámica, y un andamiaje pedagógico, que incluye elementos de contructivismo y construccionismo.
 
 A este tipo de programas, que se utilizan para poner en marcha y gestionar formación, se les conoce como gestores de contenidos de formación o sus siglas en inglés: **LMS. **
 
