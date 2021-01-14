@@ -2,7 +2,7 @@
 
 Asociado al rastreo de la finalización de las actividades, existe un bloque muy útil que permite a los estudiantes ser conscientes de sus avances, evita que olviden tareas y permite al profesor controlar su progreso de forma fácil a través de la "Vista general de estudiantes".
 
-Para agregar ese bloque, debemos volver al Módulo 1, a la sección [Añadiendo Bloques](https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/u2_aadiendo_bloques.html) y añadir el bloque llamado **Estado de finalización**.
+Para agregar ese bloque, debemos volver al Módulo 1, a la sección [Añadiendo Bloques](https://catedu.github.io/curso-moodle/las_columnas.html) y añadir el bloque llamado **Estado de finalización**.
 
 ![](/assets/Selección_356.png)
 

@@ -1,8 +1,8 @@
 # Moodle
 
-![Imagen obtenida de https://moodle.org/logo/](https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/img/logo-1024x254.jpg)
+![Imagen obtenida de https://moodle.org/logo/](https://catedu.github.io/curso-moodle/img/logo-1024x254.jpg)
 
-![Fuente INTEF](https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/img/terminos4.jpg)
+![Fuente INTEF](https://catedu.github.io/curso-moodle/img/terminos4.jpg)
 
 Moodle es una plataforma para teleformación, creación de Martin Dougiamas, que se sostiene en un sistema tecnológico, al que puede considerarse como de web dinámica, y un andamiaje pedagógico, que incluye elementos de contructivismo y construccionismo.
 
