@@ -10,7 +10,7 @@ Al acceder a la configuración de calificaciones nos muestra una lista de las ac
 
 ![](/assets/configuracionCalificaciones.png)
 
-En esta imagen se ve un curso con 3 actividades con calificación máxima 100, 100 y 10 respectivamente. Si no se indica lo contrario, moodle interpreta que el curso es sobre 210 puntos en total y por tanto la primera actividad vale 100/210 de la nota, un 47%.
+En la imagen anterior se ve un curso con 6 actividades con calificación máxima cada una de 3 puntos. Si no se indica lo contrario, moodle interpreta que el curso es sobre 18 puntos en total y por tanto la ponderación **por defecto** de cada actividad sería de 3/18 de la calificación total, es decir, de 16,667%. Si las tareas tuvieran diferente calificación máxima, se repetiría esta lógica con los valores correspondientes.
 
 Esta ponderación se puede modificar pulsando en la checkbox situada junto a ella.
 
