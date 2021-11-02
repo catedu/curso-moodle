@@ -26,7 +26,10 @@ Se rellenan los campos. Hemos creado tres categorías, Trimestre 1, Trimestre 2 
 Algunas de las opciones
 
 * **Nombre de categoría**: Para poner un nombre que la identifique en el libro de calificaciones.
-* **Cálculo total**. Definimos aquí cómo se va a calcular la calificación de la categoría sobre la base de los elementos que la integran.
+* **Cálculo total**. Definimos aquí cómo se va a calcular la calificación de la categoría sobre la base de los elementos que la integran. Podremos elegir entre varios tipos de cálculo, los más habituales:
+    - Media de calificaciones: En este caso sumará todas las calificaciones de esa categoría y la dividirá entre el número de calificaciones.
+    - Media ponderada de las calificaciones: a cada elemento de calificación se le asigna un peso según su importancia.
+    - Suma de calificaciones: Este tipo de cálculo lo usaremos cuando hayamos asignado un peso o “parte” de una valoración total a cada una de las actividades de la categoría. Así la global la obtendremos sumando esas “partes”
 * **Tipo de calificación**. Valor, si se va a utilizar la calificación numérica. Escala, si se va a usar una escala cualitativa. Aunque en rigor no es necesario, para ser coherentes lo más sencillo es elegir el tipo de calificación que se haya aplicado en los elementos que vamos a integrar en la categoría.
 * **Escala**. Si se ha seleccionado como tipo de calificación Escala, seleccionaremos aquí la escala a aplicar.
 * **Calif. máxima y mínima**: Para definir qué rango de valores tendrá la calificación global de la categoría.
